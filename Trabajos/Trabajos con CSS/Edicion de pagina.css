@@ -1,0 +1,16 @@
+body {
+  background-color: antiquewhite;
+  color: black;
+}
+ .caja {
+  /*configuracion de cajas usar signos de /+ para quitar de las pagina al final del .caja*/
+  margin: 8px;
+  padding: 8px;
+  border-style: double;
+  border-width: 8px;
+  /*con el comand border- seguido uno de los lados del borde, puedes cambiarlos por separado*/
+  background-color: aquamarine;
+  border-radius: 8px;
+  height: 100px;
+  width: 100px;
+ }
