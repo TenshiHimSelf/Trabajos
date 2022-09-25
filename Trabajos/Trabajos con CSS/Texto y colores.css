@@ -1,0 +1,23 @@
+body {
+  background-color: antiquewhite;
+}
+
+p{
+  font-family: "Verdana";
+  font-weight: 900;
+  font-style: italic;
+  font-size: 2em;
+   color: brown;
+   text-align: left;
+   text-decoration: none;
+   text-indent: 15px;
+   line-height: 1.2;
+   text-shadow:  crimson;
+}
+
+a{
+  text-decoration: none;
+  text-transform: capitalize;
+  letter-spacing: 3px;
+  word-spacing: 10px;
+}

@@ -1,0 +1,30 @@
+body {
+  background-color: antiquewhite;
+}
+
+a {
+  color: black;
+  background-color: darkkhaki;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 4px;
+}
+
+a:link {
+  color: brown;
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:active {
+  color: blueviolet;
+}
+
+a:hover {
+  color: gray;
+  text-decoration: underline;
+  background-color: darkgoldenrod;
+}

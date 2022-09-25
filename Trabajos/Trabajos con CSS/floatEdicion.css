@@ -1,0 +1,14 @@
+body {
+  background-color: antiquewhite;
+}
+
+img {
+  float: right;
+}
+
+img:hover {
+  opacity: 0.5;
+}
+div p {
+  color: red;
+}

@@ -1,0 +1,23 @@
+body {
+  background-color: antiquewhite;
+}
+
+ .caja {
+  background-color: antiquewhite;
+  border-style: solid;
+  border-width: 1px;
+  border-color: brown;
+  border-radius: 4px;
+  border-top: solid 0px;
+ }
+
+  .contenido{
+    padding: 10px;
+    
+  }
+
+ .footer {
+  padding: 10px;
+  border-top: solid 1px burlywood;
+
+ }
