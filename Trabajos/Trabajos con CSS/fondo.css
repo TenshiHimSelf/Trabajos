@@ -1,0 +1,14 @@
+body {
+  background-color: antiquewhite;
+}
+
+.fondo {
+  /*Con la etiqueta Background se puede meter todo de un solo*/
+  height: 300px;
+  background-color: bisque;
+  background-image: url(https://64.media.tumblr.com/1150cead3b0b05169448d6726db8a783/f02a780c29c9fe21-89/s540x810/88f071d01a9878a236d6ee604bce71ae5fe246ab.pnj);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
